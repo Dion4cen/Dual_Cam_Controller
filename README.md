@@ -28,10 +28,6 @@ This Python script provides a user interface to control two Raspberry Pi cameras
 ```shell
 git clone https://github.com/Dion4cen/Dual_Cam_Controller.git
 ```
-### Install dependencies:
-```shell
-pip install -r requirements.txt
-```
 ## Usage
 1. Navigate to the project directory:
 ```shell
