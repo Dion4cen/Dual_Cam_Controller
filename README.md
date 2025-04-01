@@ -35,7 +35,7 @@ cd Dual_Cam_Controller
 ```
 2. Run the script:
 ```shell
-python dual_camera_controller.py
+python dual_cam_capture.py
 ```
 3. Control the application using the following keyboard inputs:
 ```
