@@ -20,9 +20,9 @@ This Python script provides a user interface to control two Raspberry Pi cameras
 ### Software:
 + Raspberry Pi OS (with necessary camera drivers enabled)
 + Python 3
-+ picamera2 library: Install using `pip install picamera2`
++ picamera2 library: Install using `sudo apt install python3-picamera2`
 + opencv-python library: Install using `sudo apt install python3-opencv`
-+ numpy library: Install using `pip install numpy`
++ numpy library: Install using `sudo apt install python3-numpy`
 ## Installation
 ### Clone the repository:
 ```shell
